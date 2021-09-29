@@ -12,7 +12,7 @@ The extension runs on js and json, and is hosted on the Chrome developer tools. 
 
 Please don't show this to other faculty, unless you reckon they'll find it funny. My favorite passtime has been going to gossip tabloids and seeing what the faculty has been up to after hours:
 
-![Didn't know Tim was an artist](readmeimgs\one.png)
+![Didn't know Tim was an artist](.\readmeimgs\one.png)
 
 
 
