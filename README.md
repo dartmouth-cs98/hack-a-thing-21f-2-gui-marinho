@@ -40,6 +40,8 @@ I wish I could do a few more things:
 
 I was unfortunately limited by my knowledge of js and json. Gotta work on that, or find a project partner who is a js master. I was very annoyed js has no convenient way of reading text files outside of Node.js, at least that I could find; it limited the number of celebrity names I could include. I also wish the manifest file format was simpler. While google offers incredible documentation, the difference between names in the manifest between update 2 and 3 cost me an hour of banging my head against the wall. You also have to be very careful with how you list functions, kind of like a Makefile, but with even less feedback on what went wrong. Finally, while Chrome offers a dev console for logging, it is so simple, only allowing for message writing to it. I wish I had some more powerful tools for logging; I might need to look further into it.
 
+I presented my pitch on a proposed extension for helping people with disabilities quickly know if places are accessible. Using background processes, this can definitely be accomplished. There are even google maps extensions already! I am also confident we could get a pretty good-looking UI going, now I know google has nice presets :)
+
 ## Authors
 
 Gui Marinho '22
