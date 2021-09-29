@@ -2,19 +2,27 @@
     "name": "Dartmouth CSIfy",
     "description": "Replaces names of random celebrities with names of random CS professors",
     "version": "1.0.0",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "author": "Gui Marinho",
 
-     "web_accessible_resources": ["images/*.jpg"],
-    "default_icon": "logo.png",
+    "web_accessible_resources": [
+        "images/*"
+     ],
 
     "content_scripts":
     [
         {
             "matches": ["*://*/*"],
             "all_frames": true,
-            "js": ["content_script.js"],
+            "js": ["nameReplacer.js"],
             "run_at": "document_end"
+        },
+
+        {
+            "matches" : [
+                "<all_urls>"
+                ],
+                "js" : ["imgReplacer.js"]
         }
     ]
 }
