@@ -14,13 +14,11 @@ Please don't show this to other faculty, unless you reckon they'll find it funny
 
 ![Didn't know Tim was an artist](\readmeimgs\one.png)
 
+![](\readmeimgs\two.png)
 
+![](\readmeimgs\three.png)
 
-![](readmeimgs\two.png)
-
-![](readmeimgs\three.png)
-
-![](readmeimgs\four.png)
+![](\readmeimgs\four.png)
 
 ## Who Did What?
 
