@@ -1,4 +1,4 @@
-# Hack Technology / Project Attempted
+# The CSIfy extension: Keep up with the CS Faculty! 
 
 
 ## What you built? 
