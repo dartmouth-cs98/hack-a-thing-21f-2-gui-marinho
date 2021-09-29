@@ -5,6 +5,9 @@
     "manifest_version": 3,
     "author": "Gui Marinho",
 
+     "web_accessible_resources": ["images/*.jpg"],
+    "default_icon": "logo.png",
+
     "content_scripts":
     [
         {
